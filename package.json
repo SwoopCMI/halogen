@@ -47,7 +47,8 @@
     "react": "global:React"
   },
   "scripts": {
-    "release": "gulp release"
+    "release": "gulp release",
+    "build": "gulp build:npm"
   },
   "keywords": [
     "react",
